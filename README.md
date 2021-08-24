@@ -3,7 +3,8 @@
 - 🏡 I’m currently living in Florence, Italy
 - 📫 You can reach me at my personal e-mail address in my bio
 
-## iOS Projects
+
+## <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift logo" width="25"/>  iOS Projects
 
 :film_strip: [MovieQueue](https://github.com/grecoluigi/MovieQueue) - Manage your watchlist with online search functionality
 
