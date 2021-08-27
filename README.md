@@ -12,4 +12,4 @@
 
 :tv: [TVid](https://github.com/grecoluigi/TVid) - iOS 15+ - Use the power of ShazamKit to ID TV Shows
 
-:new: 📋: [RePaste](https://github.com/grecoluigi/RePaste) - WORK IN PROGRESS
+:new: 📋: [RePaste](https://github.com/grecoluigi/RePaste) - WORK IN PROGRESS - A retro-styled Clipboard manager for iOS
