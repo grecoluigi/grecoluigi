@@ -11,3 +11,5 @@
 :dog: [WristBuddy](https://github.com/grecoluigi/WristBuddy) - A tiny Apple Watch companion and news reader
 
 :tv: [TVid](https://github.com/grecoluigi/TVid) - iOS 15+ - Use the power of ShazamKit to ID TV Shows
+
+:new: 📋: [RePaste](https://github.com/grecoluigi/RePaste) - WORK IN PROGRESS
