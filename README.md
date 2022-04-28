@@ -6,6 +6,8 @@
 
 ## <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="Swift logo" width="25"/>  iOS Projects
 
+:beer: [BeerBox](https://github.com/grecoluigi/BeerBox) - A sample client for PunkAPI
+
 :film_strip: [MovieQueue](https://github.com/grecoluigi/MovieQueue) - Manage your watchlist with online search functionality
 
 :dog: [WristBuddy](https://github.com/grecoluigi/WristBuddy) - A tiny Apple Watch companion and news reader
